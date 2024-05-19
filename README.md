@@ -39,3 +39,11 @@ This project introduces a React-based web application that functions as a clone 
 To clone the repository:
 ```bash
 git clone https://github.com/HamzaZaidiX/Gemini-Clone.git
+```
+
+### Licence:
+MIT LICENCE Read `Licence` document for more details =>
+
+# Bye! 👋
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+
