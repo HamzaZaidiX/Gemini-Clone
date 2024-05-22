@@ -125,7 +125,7 @@ const Main = () => {
           <div className="bottom-info">
             <p>
               Gemini may display inaccurate info, including about people, so
-              double-check its responses. Made with ❤ by (Hamza Zaidi)[https://github.com/HamzaZaidiX/]!
+              double-check its responses. Made with ❤ by <a className="link" href="https://github.com/HamzaZaidiX/">Hamza Zaidi</a>
             </p>
           </div>
         </div>
